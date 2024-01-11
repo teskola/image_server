@@ -6,11 +6,10 @@ minio server ~/minio --console-address :9001
 
 touch .env
 
-`ACCESS = 'XXXX'
-
+```
+ACCESS = 'XXXX'
 SECRET = 'XXXX'
-
 PORT=9000
-
-URL = '172.18.251.40'`
+URL = '172.18.251.40'
+```
 
